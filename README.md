@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/25je0155-crypto/abhinav5667/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/25je0155-crypto/abhinav5667/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/25je0155-crypto/abhinav5667/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/25je0155-crypto/abhinav5667/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/25je0155-crypto/abhinav5667/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
