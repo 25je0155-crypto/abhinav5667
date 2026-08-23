@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/25je0155-crypto/abhinav5667/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/25je0155-crypto/abhinav5667/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/25je0155-crypto/abhinav5667/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/25je0155-crypto/abhinav5667/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -38,12 +39,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/25je0155-crypto/abhinav5667/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/25je0155-crypto/abhinav5667/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/25je0155-crypto/abhinav5667/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/25je0155-crypto/abhinav5667/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/25je0155-crypto/abhinav5667/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/25je0155-crypto/abhinav5667/tree/master/0451-sort-characters-by-frequency) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/25je0155-crypto/abhinav5667/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/25je0155-crypto/abhinav5667/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/25je0155-crypto/abhinav5667/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/25je0155-crypto/abhinav5667/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
