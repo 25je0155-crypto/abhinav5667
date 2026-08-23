@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/25je0155-crypto/abhinav5667/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/25je0155-crypto/abhinav5667/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/25je0155-crypto/abhinav5667/tree/master/0162-find-peak-element) |
 | [0560-subarray-sum-equals-k](https://github.com/25je0155-crypto/abhinav5667/tree/master/0560-subarray-sum-equals-k) |
@@ -34,10 +35,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/25je0155-crypto/abhinav5667/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/25je0155-crypto/abhinav5667/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/25je0155-crypto/abhinav5667/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/25je0155-crypto/abhinav5667/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/25je0155-crypto/abhinav5667/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
