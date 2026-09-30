@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/25je0155-crypto/abhinav5667/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/25je0155-crypto/abhinav5667/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/25je0155-crypto/abhinav5667/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/25je0155-crypto/abhinav5667/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/25je0155-crypto/abhinav5667/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/25je0155-crypto/abhinav5667/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/25je0155-crypto/abhinav5667/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/25je0155-crypto/abhinav5667/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
