@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/25je0155-crypto/abhinav5667/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/25je0155-crypto/abhinav5667/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/25je0155-crypto/abhinav5667/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/25je0155-crypto/abhinav5667/tree/master/0215-kth-largest-element-in-an-array) |
 | [0410-split-array-largest-sum](https://github.com/25je0155-crypto/abhinav5667/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/25je0155-crypto/abhinav5667/tree/master/0560-subarray-sum-equals-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/25je0155-crypto/abhinav5667/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/25je0155-crypto/abhinav5667/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/25je0155-crypto/abhinav5667/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/25je0155-crypto/abhinav5667/tree/master/0451-sort-characters-by-frequency) |
 ## Trie
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/25je0155-crypto/abhinav5667/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/25je0155-crypto/abhinav5667/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -84,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/25je0155-crypto/abhinav5667/tree/master/0410-split-array-largest-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/25je0155-crypto/abhinav5667/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/25je0155-crypto/abhinav5667/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
