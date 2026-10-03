@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/25je0155-crypto/abhinav5667/tree/master/0014-longest-common-prefix) |
+| [0078-subsets](https://github.com/25je0155-crypto/abhinav5667/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/25je0155-crypto/abhinav5667/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/25je0155-crypto/abhinav5667/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/25je0155-crypto/abhinav5667/tree/master/0215-kth-largest-element-in-an-array) |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/25je0155-crypto/abhinav5667/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/25je0155-crypto/abhinav5667/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/25je0155-crypto/abhinav5667/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
